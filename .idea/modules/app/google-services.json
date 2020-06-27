@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "303541119296",
+    "firebase_url": "https://anlearn-e5410.firebaseio.com",
+    "project_id": "anlearn-e5410",
+    "storage_bucket": "anlearn-e5410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303541119296:android:49dd4a492dca811a3bb2a5",
+        "android_client_info": {
+          "package_name": "com.example.a1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303541119296-8ee75sedl83cj6b8puvprcqgu1f6t9u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1",
+            "certificate_hash": "95cf8cf25b34703cf6f38e81c540799776a3c404"
+          }
+        },
+        {
+          "client_id": "303541119296-d1brlle264hg7sggnha79qe87jmghi58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvDzCRZFib3fFqjFIb9s_6h8wysoNLivE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303541119296-d1brlle264hg7sggnha79qe87jmghi58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
